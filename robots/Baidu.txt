@@ -1,0 +1,111 @@
+User-agent: Baiduspider
+Disallow: /baidu
+Disallow: /s?
+
+User-agent: Googlebot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: MSNBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Baiduspider-image
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: YoudaoBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Sogou web spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Sogou inst spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Sogou spider2
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Sogou blog
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Sogou News Spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Sogou Orion spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: JikeSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: Sosospider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: PangusoSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: yisouspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: EasouSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+
+User-agent: *
+Disallow: /
